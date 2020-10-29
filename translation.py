@@ -50,7 +50,6 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@renamer_Ns_bot</code>
 Please short your file name and try again!"""
 
     About = """Hi __{}__,
@@ -59,6 +58,4 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** Meh
-
-"""
+**👨‍💻 Developer:** Meh"""
